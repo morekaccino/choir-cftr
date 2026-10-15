@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated benchmark data and caches (rebuild with the commands in the README)
+data/derived/
+*.egg-info/

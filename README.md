@@ -1,5 +1,7 @@
 # CHOIR: Channel Count, State Occupancy and Rates from Multichannel CFTR Recordings
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23383422.svg)](https://doi.org/10.5281/zenodo.23383422)
+
 Code accompanying the paper *"CHOIR: Channel Count, State Occupancy and Rates from
 Multichannel CFTR Recordings"* by Mohammadreza Kazemi and Andrew Eckford (York University).
 
